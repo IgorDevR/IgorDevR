@@ -1,7 +1,6 @@
-### Hello👋. Good mood to you. 
-### I do software development primarily in Java. 
+### Hello👋. Good mood to you. I do software development primarily in Java. 
 ### I will be glad to cooperate. 
-###[![trophy](https://github-profile-trophy.vercel.app/?username=IgorDevR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IgorDevR)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **IgorDevR/IgorDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
