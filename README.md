@@ -1,7 +1,7 @@
 ### Hello👋. 
-Good mood to you. 
-I do software development primarily in Java. 
-I will be glad to cooperate. 
+### Good mood to you. 
+### I do software development primarily in Java. 
+### I will be glad to cooperate. 
 
 <!--
 **IgorDevR/IgorDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
