@@ -1,5 +1,4 @@
-### Hello👋. 
-### Good mood to you. 
+### Hello👋.Good mood to you. 
 ### I do software development primarily in Java. 
 ### I will be glad to cooperate. 
 
