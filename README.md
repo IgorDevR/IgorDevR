@@ -3,6 +3,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=IgorDevR)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 ### My contact email: IgorBrezhnev99@gmail.com
+###
+###
+###[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!--
 **IgorDevR/IgorDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
