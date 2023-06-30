@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello👋. Good mood to you. I do software development primarily in Java. 
+### I will be glad to cooperate. 
+[![trophy](https://github-profile-trophy.vercel.app/?username=IgorDevR)](https://github.com/ryo-ma/github-profile-trophy)
+###
+###
+###
+
+My Skills: [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,github,cs,postgres,mysql)](https://skillicons.dev)
 
 <!--
 **IgorDevR/IgorDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
