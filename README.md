@@ -5,8 +5,7 @@
 ###
 ###
 
-My Skills: [![My Skills Java](https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,github,cs,postgres,mysql)](https://skillicons.dev)
-My Skills: [![My Skills C#](https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,github,cs,postgres,mysql)](https://skillicons.dev)
+My Skills: [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,maven,gradle,github,postgres,mysql,cs,visualstudio,dotnet,docker,)](https://skillicons.dev)
 
 <!--
 **IgorDevR/IgorDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
